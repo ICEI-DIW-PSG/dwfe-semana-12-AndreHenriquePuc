@@ -5,11 +5,15 @@ Nesta atividade, vamos desenvolver um sistema simples de cadastro de funcionári
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: André Henrique Braga Dias
+- Matricula: 912150
 
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - CARDS DE PELO MENOS 5 FUNCIONÁRIOS CADASTRADOS - AQUI >>
 
+![alt text](<public/prints/Captura de tela 2026-06-12 154533.png>)
+
 <<  COLOQUE A IMAGEM - LOCALSTORAGE NO NAVEGADOR - AQUI >>
+
+![alt text](<public/prints/Captura de tela 2026-06-12 154344.png>)
